@@ -1,0 +1,16 @@
+{
+  "name": "join-us",
+  "version": "1.0.0",
+  "description": "using mysql with nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Junaid Qureshi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^5.5.3",
+    "mysql": "^2.18.1"
+  }
+}
